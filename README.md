@@ -26,9 +26,9 @@ python manage.py runserver
 5. Open the link ```http://127.0.0.1:8000/analyze/``` on your web-browser to use the Application.
 
 ## Usage
-..* Click on ```select some files``` button and select the any  ```*.jpg``` file.
-..* Now click on ```Submit``` button.
-..* Click on ```History``` button to get an history of all the images analyzed.
+* Click on ```select some files``` button and select the any  ```*.jpg``` file.
+* Now click on ```Submit``` button.
+* Click on ```History``` button to get an history of all the images analyzed.
 
 ## Built with 
 1. [Pycharm](https://www.jetbrains.com/pycharm/download/)

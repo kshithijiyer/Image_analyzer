@@ -3,7 +3,7 @@ This is a Django application which uses Google's Vision API to analyze images an
 
 ## Prerequisites
 1. Google cloud API key
-2. Python 2.X
+2. Python 2.x
 3. Django
 
 ## Installation and Execution
